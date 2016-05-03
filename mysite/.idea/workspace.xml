@@ -55,22 +55,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polls/settings_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#23#52#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polls/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
+            <state relative-caret-position="1598">
               <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
               <folding />
             </state>
@@ -142,8 +140,8 @@
         <option value="$PROJECT_DIR$/polls/models.py" />
         <option value="$PROJECT_DIR$/polls/tests.py" />
         <option value="$PROJECT_DIR$/polls/views.py" />
-        <option value="$PROJECT_DIR$/polls/settings_test.py" />
         <option value="$PROJECT_DIR$/polls/settings.py" />
+        <option value="$PROJECT_DIR$/polls/settings_test.py" />
       </list>
     </option>
   </component>
@@ -463,9 +461,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#52#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -641,20 +637,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/settings_test.py">
+    <entry file="file://$PROJECT_DIR$/polls/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#52#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1598">
+          <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/settings.py">
+    <entry file="file://$PROJECT_DIR$/polls/settings_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>

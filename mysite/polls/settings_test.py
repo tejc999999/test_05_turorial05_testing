@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-from mysite.settings import *
+from polls.settings import *
 import os
 
 TEST_RUNNER = 'django_nose.NoseTestSuiteRunner'
